@@ -1,0 +1,46 @@
+{
+  "apps": [
+    {
+      "bundleIdentifier": "com.auditore.watchiptv",
+      "developerName": "Ángel",
+      "downloadURL": "https://github.com/angeldevelop1/mis-apps/releases/download/watchiptv-1.0/watchiptv-2026-11-17-v2.ipa",
+      "name": "watchiptv",
+      "size": 50489721,
+      "version": "1.0",
+      "versionDate": "2026-11-17",
+      "iconURL": "https://angeldevelop1.github.io/mis-apps/watchiptv.png"
+    },
+    {
+      "bundleIdentifier": "com.auditore.Octok",
+      "developerName": "Ángel",
+      "downloadURL": "https://github.com/angeldevelop1/mis-apps/releases/download/octokey-1.6/Octokey.ipa",
+      "name": "Octok",
+      "size": 13437736,
+      "version": "1.6",
+      "versionDate": "2026-11-17",
+      "iconURL": "https://angeldevelop1.github.io/mis-apps/octok.png"
+    },
+    {
+      "bundleIdentifier": "com.auditore.FingerSwiper",
+      "developerName": "Ángel",
+      "downloadURL": "https://github.com/angeldevelop1/mis-apps/releases/download/fingerswiper/FingerSwiper-v41.ipa",
+      "name": "FingerSwiper",
+      "size": 3226855,
+      "version": "0.41",
+      "versionDate": "2026-11-16",
+      "iconURL": "https://angeldevelop1.github.io/mis-apps/fingerswiper.png"
+    },
+    {
+      "bundleIdentifier": "com.auditore.MultiDownloader",
+      "developerName": "Ángel",
+      "downloadURL": "https://github.com/angeldevelop1/mis-apps/releases/download/multidownloader-1.0/MultiDownloader.ipa",
+      "name": "MultiDownloader",
+      "size": 1001829,
+      "version": "1.0",
+      "versionDate": "2026-11-10",
+      "iconURL": "https://angeldevelop1.github.io/mis-apps/multidownloader.png"
+    }
+  ],
+  "identifier": "com.auditore.repo",
+  "name": "Apps de Ángel"
+}
