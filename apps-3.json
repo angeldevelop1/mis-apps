@@ -1,0 +1,81 @@
+{
+  "apps": [
+    {
+      "bundleIdentifier": "com.auditore.watchiptv",
+      "developerName": "Ángel",
+      "downloadURL": "https://github.com/angeldevelop1/mis-apps/releases/download/watchiptv-1.0/watchiptv-2026-11-17-v2.ipa",
+      "name": "watchiptv",
+      "size": 50489721,
+      "version": "1.0",
+      "versionDate": "2026-11-17",
+      "iconURL": "https://angeldevelop1.github.io/mis-apps/watchiptv.png",
+      "icon": "https://angeldevelop1.github.io/mis-apps/watchiptv.png",
+      "subtitle": "Tu IPTV en vivo, películas y series"
+    },
+    {
+      "bundleIdentifier": "com.auditore.Octok",
+      "developerName": "Ángel",
+      "downloadURL": "https://github.com/angeldevelop1/mis-apps/releases/download/octokey-1.6/Octokey.ipa",
+      "name": "Octok",
+      "size": 13437736,
+      "version": "1.6",
+      "versionDate": "2026-11-17",
+      "iconURL": "https://angeldevelop1.github.io/mis-apps/octok.png",
+      "icon": "https://angeldevelop1.github.io/mis-apps/octok.png",
+      "subtitle": "Teclado con predicciones flotantes"
+    },
+    {
+      "bundleIdentifier": "com.auditore.FingerSwiper",
+      "developerName": "Ángel",
+      "downloadURL": "https://github.com/angeldevelop1/mis-apps/releases/download/fingerswiper/FingerSwiper-v41.ipa",
+      "name": "FingerSwiper",
+      "size": 3226855,
+      "version": "0.41",
+      "versionDate": "2026-11-16",
+      "iconURL": "https://angeldevelop1.github.io/mis-apps/fingerswiper.png",
+      "icon": "https://angeldevelop1.github.io/mis-apps/fingerswiper.png",
+      "subtitle": "Teclado por deslizamiento"
+    },
+    {
+      "bundleIdentifier": "com.auditore.MultiDownloader",
+      "developerName": "Ángel",
+      "downloadURL": "https://github.com/angeldevelop1/mis-apps/releases/download/multidownloader-1.0/MultiDownloader.ipa",
+      "name": "MultiDownloader",
+      "size": 1001829,
+      "version": "1.0",
+      "versionDate": "2026-11-10",
+      "iconURL": "https://angeldevelop1.github.io/mis-apps/multidownloader.png",
+      "icon": "https://angeldevelop1.github.io/mis-apps/multidownloader.png",
+      "subtitle": "Descarga videos de tus redes"
+    },
+    {
+      "bundleIdentifier": "com.auditore.ClashTime",
+      "developerName": "Ángel",
+      "downloadURL": "https://github.com/angeldevelop1/mis-apps/releases/download/clashtime-1.0/ClashTime.ipa",
+      "name": "ClashTime",
+      "size": 12587133,
+      "version": "1.0",
+      "versionDate": "2026-11-18",
+      "iconURL": "https://angeldevelop1.github.io/mis-apps/clashtime.png",
+      "icon": "https://angeldevelop1.github.io/mis-apps/clashtime.png",
+      "subtitle": "Deportes en vivo: boxeo, fútbol, UFC y BKFC"
+    },
+    {
+      "bundleIdentifier": "com.auditore.Sinfonia-Radio",
+      "developerName": "Ángel",
+      "downloadURL": "https://github.com/angeldevelop1/mis-apps/releases/download/sinfonia-1.0/SinfoniaRadio.ipa",
+      "name": "Sinfonía Radio",
+      "size": 1349947,
+      "version": "1.0",
+      "versionDate": "2026-11-19",
+      "iconURL": "https://angeldevelop1.github.io/mis-apps/sinfonia.png",
+      "icon": "https://angeldevelop1.github.io/mis-apps/sinfonia.png",
+      "subtitle": "Radio de todo el mundo, con el Panda, Piolín y Don Cheto"
+    }
+  ],
+  "identifier": "com.auditore.repo",
+  "name": "Apps de Ángel",
+  "iconURL": "https://angeldevelop1.github.io/mis-apps/repo.png",
+  "sourceIconURL": "https://angeldevelop1.github.io/mis-apps/repo.png",
+  "icon": "https://angeldevelop1.github.io/mis-apps/repo.png"
+}
