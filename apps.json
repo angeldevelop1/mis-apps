@@ -63,14 +63,15 @@
     {
       "bundleIdentifier": "com.auditore.Sinfonia-Radio",
       "developerName": "Ángel",
-      "downloadURL": "https://github.com/angeldevelop1/mis-apps/releases/download/SinfoniaRadio/SinfoniaRadio.ipa",
+      "downloadURL": "https://github.com/angeldevelop1/mis-apps/releases/download/SinfoniaRadio/SinfoniaRadio.1.1.ipa",
       "name": "Sinfonía Radio",
-      "size": 1349947,
+      "size": 1590542,
       "version": "1.1",
-      "versionDate": "2026-11-19",
+      "versionDate": "2026-11-21",
       "iconURL": "https://angeldevelop1.github.io/mis-apps/sinfonia.png",
       "icon": "https://angeldevelop1.github.io/mis-apps/sinfonia.png",
       "subtitle": "Radio de todo el mundo, con el Panda, Piolín y Don Cheto"
+
     }
   ],
   "identifier": "com.auditore.repo",
