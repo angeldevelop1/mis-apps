@@ -1,6 +1,18 @@
 {
   "apps": [
     {
+      "bundleIdentifier": "com.auditore.Unisono",
+      "developerName": "Ángel",
+      "downloadURL": "https://github.com/angeldevelop1/mis-apps/releases/download/unisono-1.4/Unisono.ipa",
+      "name": "Unísono",
+      "size": 1673896,
+      "version": "1.4",
+      "versionDate": "2026-11-28",
+      "iconURL": "https://angeldevelop1.github.io/mis-apps/unisono.png",
+      "icon": "https://angeldevelop1.github.io/mis-apps/unisono.png",
+      "subtitle": "Tu música y tu radio en una sola app"
+    },
+    {
       "bundleIdentifier": "com.auditore.watchiptv",
       "developerName": "Ángel",
       "downloadURL": "https://github.com/angeldevelop1/mis-apps/releases/download/watchiptv-1.0/watchiptv-2026-11-17-v2.ipa",
